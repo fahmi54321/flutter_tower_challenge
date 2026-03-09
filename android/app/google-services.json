@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "748938882142",
+    "firebase_url": "https://flutter-tower-default-rtdb.firebaseio.com",
+    "project_id": "flutter-tower",
+    "storage_bucket": "flutter-tower.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748938882142:android:51478e37408a9d8f7c18cf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tower_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3rhLRG591jTcLINq3ryDmLWWVbnmigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748938882142:android:0d0946ceed83a9057c18cf",
+        "android_client_info": {
+          "package_name": "com.example.tower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3rhLRG591jTcLINq3ryDmLWWVbnmigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748938882142:android:ec5b42032022ff137c18cf",
+        "android_client_info": {
+          "package_name": "com.example.towergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3rhLRG591jTcLINq3ryDmLWWVbnmigM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748938882142-gjlptq6lvij86k3bk9ld24vpf32cthp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
